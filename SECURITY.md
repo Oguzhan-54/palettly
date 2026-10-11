@@ -72,3 +72,9 @@ Set these via the host (Cloudflare Pages `_headers` or Vercel config):
 - [ ] No secrets in repo or history
 - [ ] Upload validation tests pass (if uploads exist)
 - [ ] Dependabot and secret scanning enabled
+
+## 8. Reporting a vulnerability
+
+Please do **not** open a public issue for security problems. Report them privately via GitHub Security Advisories: https://github.com/Oguzhan-54/palettly/security/advisories/new
+
+Include a description, steps to reproduce and the affected version or commit. You will get a response as soon as possible; please allow time for a fix before disclosing publicly.
