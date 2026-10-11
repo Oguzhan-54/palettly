@@ -1,0 +1,29 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+dist-ssr/
+*.local
+
+# Environment / secrets
+.env
+.env*
+!.env.example
+
+# Generated font files (self-hosted fonts are installed via Fontsource, never committed)
+public/fonts/
+
+# Logs
+npm-debug.log*
+*.log
+
+# Test / coverage
+coverage/
+
+# Editor / OS
+.DS_Store
+.idea/
+.vscode/*
+!.vscode/extensions.json
+*.swp

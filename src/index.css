@@ -1,0 +1,13 @@
+@import 'tailwindcss';
+
+/* Base design tokens. Values are overwritten at runtime via style.setProperty. */
+:root {
+  --color-background: #ffffff;
+  --color-text: #111111;
+}
+
+body {
+  margin: 0;
+  background-color: var(--color-background);
+  color: var(--color-text);
+}
